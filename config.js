@@ -51,18 +51,18 @@ global.ppulsa2 = '' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = '' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6288983514031' //Nomor Bot mu
-global.nomorown = '628981614707' //Nomormu
+global.nomorbot = '6283831242402' //Nomor Bot mu
+global.nomorown = '6283814346766' //Nomormu
 global.namebot = 'MFC BOTZ' //Nama bot mu
 global.nameown = 'MFX' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['628981614707'], //Owner1
-  ['628981614707'], //Owner2
-  ['628981614707'], //Owner3
-  ['628981614707', 'MFX ! 🥶', true] //Ini buat kamu!
+  ['6283814346766'], //Owner1
+  ['6283814346766'], //Owner2
+  ['62895613101691'], //Owner3
+  ['6283814346766', 'YUDI XD ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
