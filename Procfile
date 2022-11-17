@@ -1,1 +1,1 @@
-web: node . --server
+npm start . --server sesison.json
