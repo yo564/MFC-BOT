@@ -61,7 +61,7 @@ global.nameown = 'MFX' //Nama mu
 global.owner = [
   ['6283831242402'], //Owner1
   ['6283831242402'], //Owner2
-  ['62895613101691'], //Owner3
+  ['6283831242402'], //Owner3
   ['6283831242402', 'YUDI XD ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
